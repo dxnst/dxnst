@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
 <a href="https://github.com/dxnst/dxnst">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dxnst&show_icons=true&theme=nord&rank_icon=github" />
@@ -29,6 +28,8 @@
   <a href="https://www.voidlinux.org" target="_blank"><img alt="Voidlinux" src="https://img.shields.io/badge/Void-A3BE8C?style=for-the-badge&logo=Voidlinux&logoColor=ECEFF4"></a>
   <a href="https://opensource.apple.com/releases/" target="_blank"><img alt="MacOS" src="https://img.shields.io/badge/Darwin-B48EAD?style=for-the-badge&logo=Apple&logoColor=ECEFF4"></a>
 </p>
+
+![melatonin](https://raw.githubusercontent.com/dxnst/nord-backgrounds/refs/heads/main/avogadr.io/1920x1080/melatonin.png)
 
 <!--
 **dxnst/dxnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
