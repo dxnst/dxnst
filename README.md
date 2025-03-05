@@ -9,6 +9,13 @@
 </p>
 
 <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-2E3440?style=for-the-badge&logo=latex&logoColor=8FBCBB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Go-2E3440?style=for-the-badge&logo=go&logoColor=88C0D0">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=81A1C1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/R-2E3440?style=for-the-badge&logo=R&logoColor=5E81AC">
+</p>
+
+<p align="center">
     <a href="https://orcid.org/0009-0006-0603-5177" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-8FBCBB?style=for-the-badge&logo=ORCID&logoColor=ECEFF4"></a>
     <a href="https://www.researchgate.net/profile/Josue-Soto-Consuegra" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-88C0D0?style=for-the-badge&logo=ResearchGate&logoColor=ECEFF4"></a>
    <a href="https://www.linkedin.com/in/sotoconsuegra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-81A1C1?style=for-the-badge&logo=Linkedin&logoColor=ECEFF4"></a>
