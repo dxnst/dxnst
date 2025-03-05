@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<a href="https://github.com/dxnst/dxnst">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dxnst&show_icons=true&theme=nord&rank_icon=github" />
+</a>
+<a href="https://github.com/dxnst/dxnst">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnst&layout=donut&theme=nord" />
+</a>
+
 <!--
 **dxnst/dxnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
