@@ -9,10 +9,18 @@
 </p>
 
 <p align="center">
-    <a href="https://orcid.org/0009-0006-0603-5177" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-8FBCBB?style=flat-square&logo=ORCID&logoColor=ECEFF4"></a>
-    <a href="https://www.researchgate.net/profile/Josue-Soto-Consuegra" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-88C0D0?style=flat-square&logo=ResearchGate&logoColor=ECEFF4"></a>
-   <a href="https://www.linkedin.com/in/sotoconsuegra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-81A1C1?style=flat-square&logo=Linkedin&logoColor=ECEFF4"></a>
- <a href="https://github.com/dxnst" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dxnst-5E81AC?style=flat-square&logo=GitHub&logoColor=ECEFF4"></a>
+    <a href="https://orcid.org/0009-0006-0603-5177" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-8FBCBB?style=for-the-badge&logo=ORCID&logoColor=ECEFF4"></a>
+    <a href="https://www.researchgate.net/profile/Josue-Soto-Consuegra" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-88C0D0?style=for-the-badge&logo=ResearchGate&logoColor=ECEFF4"></a>
+   <a href="https://www.linkedin.com/in/sotoconsuegra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-81A1C1?style=for-the-badge&logo=Linkedin&logoColor=ECEFF4"></a>
+ <a href="https://github.com/dxnst" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dxnst-5E81AC?style=for-the-badge&logo=GitHub&logoColor=ECEFF4"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.debian.org" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-BF616A?style=for-the-badge&logo=Debian&logoColor=ECEFF4"></a>
+    <a href="https://asahilinux.org" target="_blank"><img alt="AsahiLinux" src="https://img.shields.io/badge/Asahi-D08770?style=for-the-badge&logo=Asahilinux&logoColor=ECEFF4"></a>
+  <a href="https://www.openbsd.org" target="_blank"><img alt="OpenBSD" src="https://img.shields.io/badge/OpenBSD-EBCB8B?style=for-the-badge&logo=OpenBSD&logoColor=2E3440"></a>
+  <a href="https://www.voidlinux.org" target="_blank"><img alt="Voidlinux" src="https://img.shields.io/badge/Void-A3BE8C?style=for-the-badge&logo=Voidlinux&logoColor=ECEFF4"></a>
+  <a href="https://opensource.apple.com/releases/" target="_blank"><img alt="MacOS" src="https://img.shields.io/badge/Darwin-B48EAD?style=for-the-badge&logo=Apple&logoColor=ECEFF4"></a>
 </p>
 
 <!--
