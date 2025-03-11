@@ -24,10 +24,10 @@
 
 <p align="center">
 <a href="https://github.com/dxnst/dxnst">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dxnst&show_icons=true&theme=nord&rank_icon=github" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=dxnst&show_icons=true&theme=nord&rank_icon=github" />
 </a>
-<a href="https://github.com/dxnst/dxnst">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnst&layout=donut&theme=nord" />
+<a href="https://www.last.fm/user/dxnst">
+  <img height=250 align="center" src="https://lastfm-recently-played.vercel.app/api?user=dxnst&show_user=footer&bg_color=2E3440&header_size=compact_stats_only&count=5" />
 </a>
 </p>
 
@@ -44,4 +44,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://github.com/dxnst/dxnst">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnst&theme=nord" />
+</a>
 -->
