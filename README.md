@@ -31,6 +31,12 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/dxnst/dxnst">
+  <img height=150 align="center" src="https://count.getloli.com/@dxnst?name=dxnst&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" />
+</a>
+</p>
+
 <!--
 **dxnst/dxnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
