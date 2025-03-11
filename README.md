@@ -27,7 +27,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dxnst&show_icons=true&theme=nord&rank_icon=github" />
 </a>
 <a href="https://www.last.fm/user/dxnst">
-  <img height=200 align="center" src="https://lastfm-recently-played.vercel.app/api?user=dxnst&show_user=footer&bg_color=2E3440&header_size=compact_stats_only&count=3" />
+  <img height=200 align="center" src="https://lastfm-recently-played.vercel.app/api?user=dxnst&show_user=footer&bg_color=2E3440&header_size=compact_stats_only&width=300&count=3" />
 </a>
 </p>
 
